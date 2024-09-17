@@ -1,4 +1,3 @@
-````markdown
 # Learning Docker
 
 Welcome to the **Learning Docker** repository! This project is designed to help you get started with Docker, understand its core concepts, and build your own Dockerized applications.
@@ -39,7 +38,6 @@ Follow these steps to install Docker on your machine:
    ```bash
    docker --version
    ```
-````
 
 ### Linux
 
